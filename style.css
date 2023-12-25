@@ -1,0 +1,16 @@
+body{
+    background : linear-gradient(to left bottom, black, darkorange, orange, gold ,yellow, gold, orange, darkorange, black);
+    color: rgb(38, 0, 255);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_family_member, #result_family_member_name, #result_family_member_accuracy{
+    color: red;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
